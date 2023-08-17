@@ -1,1 +1,0 @@
-# mydjjp.github.io
