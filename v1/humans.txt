@@ -1,0 +1,10 @@
+/* TEAM */
+
+    Li Yalun
+    Email: 276681527 [at] 163.com
+    Location: Henan-Zhenzhou, China
+
+/* SITE */
+
+    Doctype: HTML5
+    Components: jQuery
