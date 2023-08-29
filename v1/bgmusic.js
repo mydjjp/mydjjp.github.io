@@ -13,7 +13,7 @@ bgAudio.addEventListener('ended', function () {
 }, false);
 
 function changeAudio() {
-  arrAudio=['../s/musics/Always Come Back To Your Love.mp3','../s/musics/Stupid.mp3','../s/musics/Fire fly.mp3','../s/musics/a new day has come.mp3','../s/musics/commercial advertising.mp3'];
+  arrAudio=['https://music.163.com/song/media/outer/url?id=408280692.MP3','https://music.163.com/song/media/outer/url?id=28952154.MP3'];
   bgAudio.src=arrAudio[arrNex];
 }
 
